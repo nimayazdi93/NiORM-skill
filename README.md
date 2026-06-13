@@ -41,3 +41,9 @@ dotnet add package NiORM
 ## License
 
 MIT — same as [NiORM](https://github.com/nimayazdi93/NiORM).
+
+## skills.sh
+
+**Live:** [skills.sh/nimayazdi93/NiORM-skill](https://skills.sh/nimayazdi93/NiORM-skill)
+
+The skill appears on skills.sh automatically after installs via the CLI. If search (`npx skills find niorm`) does not return it yet, file an indexing request at [vercel-labs/skills](https://github.com/vercel-labs/skills/issues/new) using [`.github/INDEX_REQUEST.md`](.github/INDEX_REQUEST.md) as the issue body.
